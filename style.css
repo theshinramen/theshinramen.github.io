@@ -11,12 +11,15 @@ html {
     font-family: 'Open Sans';
 }
 
+h1 {
+    color: #2a2a2a;
+}
+
 p {
     color: #8a8a8a;
-    font-size: 20px;
+    margin-bottom: 0;
 }
 
 a {
     color: #424242;
-    font-size: 15px;
 }
