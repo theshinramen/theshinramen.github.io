@@ -11,8 +11,15 @@ html {
     font-family: 'Open Sans';
 }
 
+img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
 h1 {
     color: #2a2a2a;
+    margin-bottom: 0;
 }
 
 p {
